@@ -1,15 +1,15 @@
-# Bones Out!
-
----
-
-### A puzzle game about the escape of a skeleton from the dungeons of the inquisition
-
 <div id="picture">
-    <img src="https://img.itch.zone/aW1hZ2UvMTUwNjI2OC84Nzg0ODUwLnBuZw==/original/qOPoKJ.png" width="500"/>
+    <img src="https://img.itch.zone/aW1hZ2UvMTUwNjI2OC84Nzg0ODUwLnBuZw==/original/qOPoKJ.png" width="800"/>
 </div>
 
-This game was written during the ASAP GAMES SCHOOL 2022 game development school, held at FEFU from March 24 to April 30. My first experience of game programming (zero is not worth considering).
+# Bones Out!
 
-In the team, I played the role of the only programmer.
+Bones out! this is a fantasy 2D platformer with a Gothic atmosphere, seasoned with a positive attitude and a lot of references. You have to use your brains (and sometimes your bones) so that the skeleton of Boney and the werewolf Jacques can get out of the gloomy catacombs of the Cult of the Sun!
 
-[itch](https://fsanvr.itch.io/bones-out "Bones Out!")
+This game was created during the ASIAN GAMES SCHOOL 2022 game development school, held at FEFU from March 24 to April 30. My first experience of game programming (zero is not worth considering).
+
+The game was developed on the Unity engine by the NorthCross team, consisting of a programmer (me), a game designer and an artist.
+
+## Downloads
+
+ [![](https://static.itch.io/images/badge.svg)](https://fsanvr.itch.io/bones-out)
